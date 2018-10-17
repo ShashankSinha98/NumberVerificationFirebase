@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "678029203935",
+    "firebase_url": "https://numberverificationfirebase.firebaseio.com",
+    "project_id": "numberverificationfirebase",
+    "storage_bucket": "numberverificationfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678029203935:android:68981e9d41187db8",
+        "android_client_info": {
+          "package_name": "com.example.shashanksinha.numberverificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678029203935-dc6g422ouvuob74ijjbgeq3g8e5ol7r1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shashanksinha.numberverificationfirebase",
+            "certificate_hash": "8bad38165c021afb0edd148290039d9cd97330f2"
+          }
+        },
+        {
+          "client_id": "678029203935-lrrfsdu973bn6tn5qd284uf9giqlt6ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTfzhJKTyn3oj9r9e7YMkXsaQDJK95XCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678029203935-lrrfsdu973bn6tn5qd284uf9giqlt6ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
